@@ -3,7 +3,7 @@ Este projeto tem como objetivo colocar em prática o conhecimento adquirido no C
 
 ![](/src/assets/example.png)
 
-### Bibliotecas
+## Bibliotecas
 A seguinte biblioteca foi utilizada na construção do projeto:
  * React
  
